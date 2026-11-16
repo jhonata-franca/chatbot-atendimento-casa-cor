@@ -4,8 +4,7 @@ Projeto de portfólio por **Jhonata França** · Novembro de 2026
 
 LinkedIn: https://www.linkedin.com/in/jhonata-fran%C3%A7a-49a839285
 
-Assistente virtual de atendimento para uma **loja online fictícia** de decoração, criado e testado em simulação com IA (conversas com o Claude, da Anthropic). O projeto cobre **design de conversa** (FAQ, instruções do assistente, testes e documentação) e inclui um notebook para rodar a Cora no Google Colab, sem custo e sem instalar nada.
-
+Assistente virtual de atendimento para uma **loja online fictícia** de decoração, criado e testado em simulação com IA (conversas com o Claude, da Anthropic). O projeto cobre **design de conversa** (FAQ, instruções do assistente, testes e documentação) e inclui um notebook para rodar a Cora no Google Colab,com a cota gratuita do Google.
 Versão com mais detalhes e visual: https://stitch-eoraptor-46a.notion.site/Projeto-Chatbot-de-atendimento-Casa-Cor-4185bbab277381488c7cc1b5c9570955
 
 Veja também: Primeiros Passos em IA: https://github.com/jhonata-franca/primeiros-passos-ia
