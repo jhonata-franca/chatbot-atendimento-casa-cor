@@ -8,6 +8,8 @@ Assistente virtual de atendimento para uma **loja online fictícia** de decoraç
 
 Versão com mais detalhes e visual: https://stitch-eoraptor-46a.notion.site/Projeto-Chatbot-de-atendimento-Casa-Cor-4185bbab277381488c7cc1b5c9570955
 
+Veja também: Primeiros Passos em IA:https://github.com/jhonata-franca/primeiros-passos-ia
+
 ## Como rodar a Cora
 
 Você pode conversar com a Cora diretamente pelo navegador, sem instalar nada:
