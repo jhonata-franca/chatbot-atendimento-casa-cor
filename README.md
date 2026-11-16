@@ -1,6 +1,7 @@
 # Chatbot de atendimento para loja online (Casa & Cor)
 
 Projeto de portfólio por **Jhonata França** · Novembro de 2026
+
 LinkedIn: https://www.linkedin.com/in/jhonata-fran%C3%A7a-49a839285
 
 Assistente virtual de atendimento para uma **loja online fictícia** de decoração, criado e testado em simulação com IA (conversas com o Claude, da Anthropic). O projeto cobre **design de conversa** (FAQ, instruções do assistente, testes e documentação) e inclui um notebook para rodar a Cora no Google Colab, sem custo e sem instalar nada.
