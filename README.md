@@ -3,9 +3,17 @@
 Projeto de portfólio por **Jhonata França** · Novembro de 2026
 LinkedIn: https://www.linkedin.com/in/jhonata-fran%C3%A7a-49a839285
 
-Assistente virtual de atendimento para uma **loja online fictícia** de decoração, criado e testado em simulação com IA (conversas com o Claude, da Anthropic). Não há código nem integração com site: o projeto é de **design de conversa**, com FAQ, instruções do assistente, testes e documentação.
+Assistente virtual de atendimento para uma **loja online fictícia** de decoração, criado e testado em simulação com IA (conversas com o Claude, da Anthropic). O projeto cobre **design de conversa** (FAQ, instruções do assistente, testes e documentação) e inclui um notebook para rodar a Cora no Google Colab, sem custo e sem instalar nada.
 
 Versão com mais detalhes e visual: https://stitch-eoraptor-46a.notion.site/Projeto-Chatbot-de-atendimento-Casa-Cor-4185bbab277381488c7cc1b5c9570955
+
+## Como rodar a Cora
+
+Você pode conversar com a Cora diretamente pelo navegador, sem instalar nada:
+
+1. Abra o [cora-colab.ipynb](cora-colab.ipynb) no [Google Colab](https://colab.research.google.com)
+2. Gere uma API key gratuita em [aistudio.google.com](https://aistudio.google.com) e adicione nos Secrets do Colab com o nome `GEMINI_API_KEY`
+3. Execute as 3 células em ordem e comece a conversar
 
 ## Problema
 
@@ -68,3 +76,4 @@ Nessa mesma resposta, a Cora mandou o cliente falar com a equipe "pelo chat", e 
 - [02-instrucoes-v5.md](02-instrucoes-v5.md): instruções atuais da Cora
 - [03-historico-de-versoes.md](03-historico-de-versoes.md): o que mudou da v1 à v5
 - [04-relatorios-de-teste.md](04-relatorios-de-teste.md): relatório completo das 4 rodadas
+- [cora-colab.ipynb](cora-colab.ipynb): notebook para rodar a Cora no Google Colab (gratuito)
